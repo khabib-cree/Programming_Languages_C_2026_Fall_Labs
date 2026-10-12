@@ -1,7 +1,7 @@
 /*
- * Name: Your Name
- * Surname: Your Surname
- * Student ID: Your ID
+ * Name: Khabibullo
+ * Surname: Khudaykulov
+ * Student ID: 251ADB033
  */
 
 #include <stdio.h>
